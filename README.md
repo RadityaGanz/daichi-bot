@@ -51,15 +51,16 @@ Script ini di modifikasi sama saya sendiri Raditya.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Ramlan666/babybot
-> cd babybot
+> pkg update && pkg upgrade && pkg install git
+> git clone https://github.com/RadityaGanz/daichi-bot
+> cd daichi-bot
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
 ```
 
 
-Ket: Aktiv 24 jam
+Ket: Aktif 24 jam
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
