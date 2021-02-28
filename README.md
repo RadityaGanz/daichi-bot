@@ -1,8 +1,4 @@
-<p align="center">
-Daichi Bot
-</p>
-<br>
-
+### DAICHI BOT
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/RadityaGanz/daichi-bot/main/assets/daichi.jpg" width="230" height="230"/>
@@ -12,7 +8,7 @@ Daichi Bot
 
 
 <p align="center">
-<a href="#"><img title="RADITYA GANZ" src="https://img.shields.io/badge/RADITYA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RADITYA GANZ" src="https://img.shields.io/badge/DAICHI-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RadityaGanz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RADITYA-orange.svg?style=for-the-badge&logo=github"></a>
@@ -35,7 +31,7 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> kopi+rokok :v
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
